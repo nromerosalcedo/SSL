@@ -2,4 +2,4 @@
 Primer programa en C.
 
 Compilador: GCC
-Version 14.2.0
+Version 15.2.0
